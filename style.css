@@ -1,0 +1,70 @@
+.sum{background-image: linear-gradient(to top, #30cfd0 0%, #330867 100%);
+color: rgb(7, 249, 209);
+font-family:Sacramento ; Static ;
+font-size: 60px;
+text-align: center;
+padding-top: 200px;
+padding-bottom: 200px
+
+}
+
+.sagar{
+    font-size: 100px;
+
+}
+
+
+.pic{
+    height: 130px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+
+.text{
+    text-align: center;
+    margin-top: 40px;
+}
+ 
+
+
+.shoot{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: 0.5fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    width: 50%;
+    margin: 50px auto 0px auto;
+    align-items: center;
+    row-gap: 20px;
+    column-gap: 10px;
+}
+
+.nature{
+    float: right;
+    height: 200px;
+    width: 260px
+}
+
+
+.let{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.sunny{
+    font-size: 30px;
+}
+
+.footer{
+    text-align: center;
+}
+
+.skill{
+    background-color: rgba(180, 164, 143, 0.044);
+}
+
+.com{
+    font-size: 50px;
+    color: #30cfd0;
+    margin-bottom: 20px;
+}
